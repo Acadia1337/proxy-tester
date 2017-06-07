@@ -1,0 +1,21 @@
+{
+  "name": "proxy-tester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "colors": "^1.1.2",
+    "prompt": "^1.0.0",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1",
+    "socks5-http-client": "^1.0.2",
+    "socks5-https-client": "^1.2.0"
+  }
+}
