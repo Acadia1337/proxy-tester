@@ -2,7 +2,6 @@ const cp = require('child_process');
 const fs = require('fs');
 const colors = require('colors');
 const rp = require('request-promise');
-const Promise = require('bluebird');
 const prompt = require('prompt');
 
 const requestHeaders = {

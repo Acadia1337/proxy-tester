@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bluebird": "^3.5.0",
     "colors": "^1.1.2",
     "prompt": "^1.0.0",
     "request": "^2.81.0",
